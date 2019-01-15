@@ -1,0 +1,32 @@
+body {
+Background-image:url(https://cdn.dribbble.com/users/1754211/screenshots/4366709/nike.gif);
+Background-repeat:10-repeat; ;
+Background-size:500px 10
+
+
+2px;
+}
+H1 {
+Text-align:center;
+Color:ffffff;
+}
+ div {
+Text=align:center;
+Background-color:#ffffff
+Font-size:30px;
+Border:4px solid black;
+Color:#FFFFFF;
+}
+Table, td, th
+{
+Border:10px solid white;
+Padding:20px;
+}
+Th
+{
+Background-color:powder blue;
+Color:white;
+}
+A:hover,a:active
+{
+Background-color:#ffffff;

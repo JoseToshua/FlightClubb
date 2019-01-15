@@ -1,0 +1,32 @@
+body {
+Background-image:url(http://www2.cool-style.com.tw/cool/2015/11/air-jordan-11-concord-gif.gif);
+Background-repeat:2-repeat; ;
+Background-size:3500px 2000
+
+
+2px;
+}
+H1 {
+Text-align:center;
+Color:000000;
+}
+ div {
+Text=align:center;
+Background-color:#ff0000
+Font-size:30px;
+Border:4px solid BLACK;
+Color:#FFFFFF;
+}
+Table, td, th
+{
+Border:5px solid WHITE;
+Padding:15px;
+}
+Th
+{
+Background-color:powderblue;
+Color:white;
+}
+A:hover,a:active
+{
+Background-color:#000000;

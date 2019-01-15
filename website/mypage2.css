@@ -1,0 +1,32 @@
+body {
+Background-image:url(https://media.giphy.com/media/xTiTnwyufCBTD7C69q/giphy.gif);
+Background-repeat:5-repeat; ;
+Background-size:750px 500
+
+
+3px;
+}
+H1 {
+Text-align:center;
+Color:ff0000;
+}
+ div {
+Text=align:center;
+Background-color:#ff0000
+Font-size:40px;
+Border:4px solid black;
+Color:	#ffffff;
+}
+Table, td, th
+{
+Border:5px solid white;
+Padding:15px;
+}
+Th
+{
+Background-color:powder blue;
+Color:black;
+}
+A:hover,a:active
+{
+Background-color:#ff0000;

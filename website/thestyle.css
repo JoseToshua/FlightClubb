@@ -1,0 +1,32 @@
+body {
+Background-image:url(https://images.milled.com/2014-11-20/E966nHxLJqL9_tlR/DK5DyStdrRl8.gif );
+Background-repeat:2-repeat; ;
+Background-size:3500px 2000
+
+
+2px;
+}
+H1 {
+Text-align:center;
+Color:000000;
+}
+ div {
+Text=align:center;
+Background-color:#ff0000
+Font-size:30px;
+Border:4px solid white;
+Color:#	#FF0000;
+}
+Table, td, th
+{
+Border:5px solid red;
+Padding:15px;
+}
+Th
+{
+Background-color:powderblue;
+Color:white;
+}
+A:hover,a:active
+{
+Background-color:#000000;
